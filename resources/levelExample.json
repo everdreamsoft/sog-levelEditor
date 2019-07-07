@@ -1,0 +1,1770 @@
+{
+  "level": {
+    "levelId": 320,
+    "createdAt": 1516092697,
+    "goldReward": 17,
+    "stamina": 4,
+    "title": "",
+    "story": "campaign_The adventure begins_story_0",
+    "rules": [],
+    "waves": [
+      {
+        "background": "Plains_o_ Askian_back2",
+        "enemies": [
+          {
+            "card": 281568,
+            "level": 2,
+            "position": {
+              "x": -73,
+              "y": 3
+            }
+          }
+        ],
+        "widgets": [
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": -16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": -48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": -16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          }
+        ],
+        "handicap": 0.8
+      },
+      {
+        "background": "Plains_o_ Askian_back2",
+        "enemies": [
+          {
+            "card": 281568,
+            "level": 1,
+            "position": {
+              "x": -95,
+              "y": -36
+            }
+          },
+          {
+            "card": 281568,
+            "level": 1,
+            "position": {
+              "x": -19,
+              "y": 10
+            }
+          }
+        ],
+        "widgets": [
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          }
+        ],
+        "handicap": 0.8
+      },
+      {
+        "background": "Plains_o_ Askian_back2",
+        "enemies": [
+          {
+            "card": 281555,
+            "level": 1,
+            "position": {
+              "x": -0.1,
+              "y": 29.53
+            }
+          },
+          {
+            "card": 281554,
+            "level": 1,
+            "position": {
+              "x": -64.1,
+              "y": -34.5
+            }
+          },
+          {
+            "card": 281554,
+            "level": 1,
+            "position": {
+              "x": 63.9,
+              "y": -34.5
+            }
+          }
+        ],
+        "widgets": [
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 208
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": 16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": 16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 176
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 144
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": -16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -128,
+              "y": -48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -96,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -64,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": -32,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 0,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 32,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 112
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 64,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 80
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 96,
+              "y": 48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": -16
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          },
+          {
+            "prefab": "Square Wall",
+            "position": {
+              "x": 128,
+              "y": -48
+            },
+            "size": {
+              "x": 32,
+              "y": 32
+            },
+            "rotation": 0
+          }
+        ],
+        "handicap": 0.8
+      }
+    ],
+    "handicap": 0.8,
+    "readableId": "",
+    "unid": 472354,
+    "created": true,
+    "dirty": false
+  }
+}
